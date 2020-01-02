@@ -1,0 +1,10 @@
+{
+  "camelcase": true,
+  "indent": 2,
+  "quotmark": false,
+  "curly": true,
+  "strict": false,
+  "browser": true,
+  "jquery": true,
+  "esversion": 6
+}
